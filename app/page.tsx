@@ -346,7 +346,7 @@ export default function HomePage() {
               <h2 className="text-4xl font-bold text-[var(--color-brand-text)] mb-6">Speaking Engagements</h2>
               <p className="text-lg text-[var(--color-brand-muted)] mb-6 leading-relaxed">
                 Margaret brings her unique perspective to audiences worldwide, combining scientific insight with
-                storytelling to inspire and educate. Her talks bridge the gap between scripture and real-world
+                scripture to inspire and educate. Her talks bridge the gap between scripture and real-world
                 application.
               </p>
 
